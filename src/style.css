@@ -1,5 +1,15 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
+    font-family: "SUSE Mono", sans-serif;
+    font-style: normal;
+}
+
+#background{ 
+    background-image: linear-gradient(to bottom, lightgray, lightblue);
+    height: 750px;
+}
+
+#background-bottom{ 
     background: white;
 }
